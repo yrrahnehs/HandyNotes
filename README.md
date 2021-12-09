@@ -1,5 +1,6 @@
 # HandyNotes
 ## Take notes for your chrome tabs for MacOS
+### Made in Python using tkinter and pynput
 
 ### To use:
 #### 1 . type in "pip install pynput" in your MacOS Terminal
